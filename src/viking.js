@@ -65,7 +65,7 @@ class War {
   }
 
   vikingAttack(){
-Saxon.receiveDamage==Viking.strength
+Saxon.receiveDamage==oViking.strength
 
   }
 
